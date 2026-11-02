@@ -1,0 +1,78 @@
+src/webview/lib/keys.ts
+  s_d32fd688181957::t_dc164ee918148a 1-2,10-22
+src/webview/commit/commitTab.tsx
+  s_d32fd688181957::t_1c4e982120164a 218
+  s_d32fd688181957::t_1c9450c2056b6e 324
+  s_d32fd688181957::t_f816d155205ad6 3
+  s_d32fd688181957::t_867081f26bcdc9 225
+  s_d32fd688181957::t_e378d8470f78db 304
+src/webview/log/menus.ts
+  s_d32fd688181957::t_150f0be62b863b 94
+src/webview/commit/shelfTab.tsx
+  s_d32fd688181957::t_ced1825fa27e8a 3
+  s_d32fd688181957::t_87ec6a5af43630 153
+  s_d32fd688181957::t_dd648753da602e 135
+src/webview/lib/components.tsx
+  s_d32fd688181957::t_0c81ebff22dca8 30
+  s_d32fd688181957::t_99c4177769befa 4
+src/features/ops/branchActions.ts
+  s_d32fd688181957::t_bf264f65add352 5,14
+src/features/ops/mainMenu.ts
+  s_d32fd688181957::t_520b8ec2ef9b96 55-57
+  s_d32fd688181957::t_dd5dbc52e24712 42
+  s_d32fd688181957::t_46e7a125edf2ad 7-9
+  s_d32fd688181957::t_52161087ec0f4a 128-130
+  s_d32fd688181957::t_804c6e3737a077 78-79
+  s_d32fd688181957::t_108f162dc8dba9 141,145
+  s_d32fd688181957::t_c9bfbb8af91873 105
+  s_d32fd688181957::t_c0e4fdec5beb7e 38
+  s_d32fd688181957::t_54654ae5e69c99 113-114
+test/branchActions.test.ts
+  s_d32fd688181957::t_7f0c42e3eea14a 4
+  s_d32fd688181957::t_9dbcd3cda13069 153-155,160-176
+  s_d32fd688181957::t_f73c33399ae867 156-159
+src/webview/log/filterBar.tsx
+  s_d32fd688181957::t_f93fac3f2ea495 281
+src/webview/commit/commitPanel.tsx
+  s_d32fd688181957::t_62aa10496dceb8 179
+  s_d32fd688181957::t_8fc342c987c3fb 214,217
+  s_d32fd688181957::t_17ded70c240653 4
+src/webview/merge/controller.ts
+  s_d32fd688181957::t_3a9c35806f9d33 453-454,456-457
+  s_d32fd688181957::t_c9499b4e9d6fa0 489
+  s_d32fd688181957::t_1d3fe41c2cae79 10
+src/webview/dialog/dialogs/ops/interactiveRebase.tsx
+  s_d32fd688181957::t_70004eb841a659 408
+  s_d32fd688181957::t_2d092fc6c8da18 5
+src/webview/dialog/dialogs/ops/simple.tsx
+  s_d32fd688181957::t_4c2ef4df89b05e 5
+  s_d32fd688181957::t_da0c17b38e35ec 294
+src/webview/merge/main.tsx
+  s_d32fd688181957::t_da80274a26fdae 204-206
+src/webview/lib/menu.tsx
+  s_d32fd688181957::t_78cedcc84d3b4e 4
+  s_d32fd688181957::t_f6c58220429a0a 260
+src/webview/log/changes.tsx
+  s_d32fd688181957::t_b08722bf3a110e 307
+src/shared/shortcutText.ts
+  s_d32fd688181957::t_514cc90127a99e 1-9,11,17-29
+  s_d32fd688181957::t_ff90e8b84e1bb4 10,12-16
+CHANGELOG.md
+  s_d32fd688181957::t_c68fbfa734c224 5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4269d2cad5d05eea664782edc28a0d34f13db032",
+  "prompts": {},
+  "sessions": {
+    "s_d32fd688181957": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6fc5e70c-1278-4594-8ff9-7c20b68065ef",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "dukun <1577057970@qq.com>"
+    }
+  }
+}
