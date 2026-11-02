@@ -1,0 +1,76 @@
+CHANGELOG.md
+  s_c1685b4397d879::t_31f5501cc3a415 3-6
+src/features/commit/index.ts
+  s_c1685b4397d879::t_feaa632a8be0ae 13
+  s_c1685b4397d879::t_20fe054ca6b194 67-68
+README.zh-CN.md
+  s_c1685b4397d879::t_a58fc33895c7f7 74
+  s_c1685b4397d879::t_984e7054328610 117
+test/aiCommit.test.ts
+  s_c1685b4397d879::t_7a4976f861c68f 1-158
+contrib/10-commit.json
+  s_c1685b4397d879::t_276b0c353aaf7c 121-130
+  s_c1685b4397d879::t_8002e6c41dcf61 159-161
+  s_c1685b4397d879::t_44c00cfe3b2a2e 313
+  s_c1685b4397d879::t_c9c8d57d4b62ed 290-312,314-324
+  s_c1685b4397d879::t_6bdea1e967b192 158
+package.nls.json
+  s_c1685b4397d879::t_771cb3185ae3a9 148
+  s_c1685b4397d879::t_eb85f2d8b27d8c 23-24,143-147,149-150
+src/features/commit/ai.ts
+  s_c1685b4397d879::t_20e80b90a5ff81 54-56
+  s_c1685b4397d879::t_c630964ef3bb25 1-53,57-66,68,70-75,77-194
+  s_c1685b4397d879::t_cffa1179c0af10 67,69,76
+src/features/commit/aiEngine.ts
+  s_c1685b4397d879::t_97be57fc493d6c 1-168
+src/features/commit/gitOps.ts
+  s_c1685b4397d879::t_ef74e9bfb719f4 194
+  s_c1685b4397d879::t_54a4c6c519f954 181-183,185
+src/webview/commit/commitPanel.tsx
+  s_c1685b4397d879::t_80efa2cdf11502 28,34-38,58-80
+  s_c1685b4397d879::t_3b5ee77126457f 191-198,204,207,214,217
+  s_c1685b4397d879::t_604bcc4e20e45a 103
+package.json
+  s_c1685b4397d879::t_eb85f2d8b27d8c 130-155,157-167,510-519,1178-1179,1181
+  s_c1685b4397d879::t_771cb3185ae3a9 156
+  h_a617e16a375e6a 5
+  s_c1685b4397d879::t_c3c2ec408bf81f 1180
+src/webview/lib/components.tsx
+  s_c1685b4397d879::t_f3605faf82fbe3 58-59,65,74,83
+src/features/commit/view.ts
+  s_c1685b4397d879::t_7446754c65d815 48
+  s_c1685b4397d879::t_e0fc37fed799e1 266
+  s_c1685b4397d879::t_2410ff1f100cf2 13
+  s_c1685b4397d879::t_5706dcd71c0385 113-118
+  s_c1685b4397d879::t_87b6f5eb6eb934 60
+l10n/bundle.l10n.zh-cn.json
+  s_c1685b4397d879::t_fcfea00d283d06 1309-1325
+README.md
+  s_c1685b4397d879::t_33abd72e456e5a 74
+  s_c1685b4397d879::t_2c5abc72cc8e5f 99
+package.nls.zh-cn.json
+  s_c1685b4397d879::t_27520b9b0a64ab 143-147,149-150
+  s_c1685b4397d879::t_a8a4baac45175d 23-24
+  s_c1685b4397d879::t_c135c96f7c3648 148
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4a1baa9a78ac50dce577305c80dd9aca7dee26bd",
+  "prompts": {},
+  "humans": {
+    "h_a617e16a375e6a": {
+      "author": "dukun <1577057970@qq.com>"
+    }
+  },
+  "sessions": {
+    "s_c1685b4397d879": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e64387c9-9c7a-4c28-aedc-77089f4843c8",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "dukun <1577057970@qq.com>"
+    }
+  }
+}
