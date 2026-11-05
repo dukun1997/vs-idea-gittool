@@ -1,0 +1,55 @@
+test/branchActions.test.ts
+  s_d32fd688181957::t_811719cee744d5 4,176-189
+src/webview/lib/components.tsx
+  s_d32fd688181957::t_5fc1683d63e315 339-345
+  s_d32fd688181957::t_f4b6769e69ad17 429
+  s_d32fd688181957::t_3610b348b89bf2 3
+src/webview/commit/shelfTab.tsx
+  s_d32fd688181957::t_0941c281b9afe1 135
+src/webview/commit/stashTab.tsx
+  s_d32fd688181957::t_fde26985653c56 3
+  s_d32fd688181957::t_6c7cc38630f6e0 134
+src/webview/merge/controller.ts
+  s_d32fd688181957::t_87b839b4945bd6 455-457,461-462
+src/shared/shortcutText.ts
+  s_d32fd688181957::t_0ac42f285b215a 30-36
+  s_d32fd688181957::t_07db434cec1130 25,28
+  s_d32fd688181957::t_ebcbaba82ff4d2 29
+CHANGELOG.md
+  s_d32fd688181957::t_cafe6dcc473c49 5
+src/features/ops/mainMenu.ts
+  s_d32fd688181957::t_a50a563588f23c 55-57
+  s_d32fd688181957::t_da7e80335a0d8f 105,128-130,141,145
+  s_d32fd688181957::t_45861c8b695a1a 78-79
+  s_d32fd688181957::t_f5b6e067dbd660 42
+  s_d32fd688181957::t_b326653a100d00 20
+  s_d32fd688181957::t_073edf78aea4ed 38
+src/webview/commit/branchesTab.tsx
+  s_d32fd688181957::t_7278b6cb419eef 7
+  s_d32fd688181957::t_4fa52c1b0f1578 203-204,206
+  s_d32fd688181957::t_0ecd22b42e766f 205,207-213
+src/webview/log/branches.tsx
+  s_d32fd688181957::t_6597a786f37160 6
+  s_d32fd688181957::t_43c1aa0f8830bf 309
+src/webview/commit/commitTab.tsx
+  s_d32fd688181957::t_58ba98af04428e 304
+src/webview/merge/main.tsx
+  s_d32fd688181957::t_ece367194f3a81 12
+  s_d32fd688181957::t_ea8d20602b4085 277-283
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b85dbbe1c7cb869081b023788df12d143dbbf1f3",
+  "prompts": {},
+  "sessions": {
+    "s_d32fd688181957": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6fc5e70c-1278-4594-8ff9-7c20b68065ef",
+        "model": "glm-5.3"
+      },
+      "human_author": "dukun <1577057970@qq.com>"
+    }
+  }
+}
